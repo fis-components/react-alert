@@ -1,0 +1,13 @@
+{
+    "name": "react-alert",
+    "description": "A simple react alert component",
+    "repos": "https://github.com/schiehll/react-alert.git",
+    "main": "alert.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "paths": {
+        "dist": "."
+    },
+    "version": "1.0.14"
+}
